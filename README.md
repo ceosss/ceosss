@@ -59,6 +59,7 @@
   <br/>
   <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-informational?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
 </p>
