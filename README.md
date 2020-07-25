@@ -102,7 +102,6 @@
       src="https://img.shields.io/badge/-Vercel-black?logo=vercel&logoColor=white&style=for-the-badge"
     />&nbsp;&nbsp;&nbsp;&nbsp;
     <br />
-
     <br />
     <img
       src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-informational?style=for-the-badge&logo=ubuntu&logoColor=white"
