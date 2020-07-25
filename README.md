@@ -50,7 +50,8 @@
   <img src="https://img.shields.io/badge/-mySQL-black?logo=sqlite&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-gitlab-black?logo=gitlab&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>  
   <img src="https://img.shields.io/badge/-Heroku-black?logo=heroku&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Vercel-black?logo=vercel&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
