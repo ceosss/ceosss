@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/-REDUX-764ABC?logo=redux&logoColor=white&style=for-the-badge&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
-  <img src="https://img.shields.io/badge/-FIREBASE-FFCA28?logo=firebase&logoColor=black&labelColor=black&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-FIREBASE-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-mySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
