@@ -116,7 +116,7 @@
     <br />
     </p>
   </div>
-  <div>
+  <div align="center">
     <p align="center">
     <h2 align="center">Contact Me</h2>
     <br />
