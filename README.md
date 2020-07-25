@@ -1,8 +1,8 @@
 <br />
 Hi there, I'm Swaraj! 👋 <br/>
-I'm a self-taught Full Stack Web Developer.<br/>
+A self-taught Full Stack Web Developer.<br/>
+<br/>
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my <a href="https://github.com/ceosss/portfolio-v3">Portfolio Website</a>.
 - 🌱 I’m currently learning Gatsby and GraphQL.
 - <strong>👯 I’m actively looking for a Job Opportunity.</strong>
