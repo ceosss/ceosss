@@ -49,11 +49,11 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-mySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-gitlab-FCA23A?logo=gitlab&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>  
-  <img src="https://img.shields.io/badge/-Heroku-black?logo=heroku&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Vercel-black?logo=vercel&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
  <br/>
 
