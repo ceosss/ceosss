@@ -1,7 +1,20 @@
 <br />
+Hi there, I'm Swaraj! 👋
+I'm a self-taught Full Stack Web Developer.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on my <a href="https://github.com/ceosss/portfolio-v3">Portfolio Website</a>.
+- 🌱 I’m currently learning Gatsby and GraphQL.
+- <strong>👯 I’m actively looking for a Job Opportunity.</strong>
+- 💬 Ask me about JavasScript and React.
+- 📫 How to reach me: Scroll Down.
+- 😄 Fun fact: Biggest Taylor Swift Fan.
+
+<br />
 <hr />
 <br />
-<div style="display: flex; align-items: center; justify-content: center;">
+<div>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=ceosss&hide=contribs,prs&count_private=true&show_icons=true&theme=merko&title_color=00feca&text_color=a5d8f3&icon_color=00feca&hide_border=true"
