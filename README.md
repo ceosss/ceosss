@@ -114,5 +114,9 @@
     />&nbsp;&nbsp;&nbsp;&nbsp;
     <br />
     <br />
+    <a target="_blank"href="https://www.linkedin.com/in/ceosss/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:sswarajsamant@gmail.com?subject=Hello%20Swaraj,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <br />
+    <br />
   </p>
 </div>
