@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 <h1 align="center">SKILLS</h1>
 <br />
 <div>
