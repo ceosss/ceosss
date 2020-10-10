@@ -4,7 +4,7 @@ A self-taught Full Stack Web Developer.<br/><br/>
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on my <a href="http://ceo-sss.web.app/" target="_blank">Portfolio Website</a>.
-- 🌱 I’m currently learning Gatsby and GraphQL.
+- 🌱 I’m currently learning AWS Tools.
 - <strong>👯 I’m actively looking for a Job Opportunity.</strong>
 - 💬 Ask me about JavasScript and React.
 - 📫 How to reach me: Scroll Down.
