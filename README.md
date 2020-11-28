@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my <a href="https://github.com/ceosss/todo-app" target="_blank">My First React Native App</a>.
 - 🌱 I’m currently learning React-Native.
 - <strong>👯 I’m actively looking for a Job Opportunity.</strong>
-- 💬 Ask me about JavasScript and React.
+- 💬 Ask me about JavaScript and React.
 - 📫 How to reach me: Scroll Down.
 - 😄 Fun fact: Biggest Taylor Swift Fan.
 
