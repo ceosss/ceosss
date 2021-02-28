@@ -3,7 +3,7 @@ Hi there, I'm Swaraj! 👋 <br/>
 A Self-taught Full Stack Developer.<br/><br/>
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on my <a href="https://github.com/ceosss/password-manager" target="_blank">Password Manager App using React Native</a>.
+- 🔭 I’m currently working on my <a href="https://github.com/ceosss/bmi_calc" target="_blank">BMI Calculator App using Flutter</a>.
 - 🌱 I’m currently learning Flutter.
 - <strong>👨‍💻 I’m actively looking for a Job Opportunity.</strong>
 - 💬 Ask me about JavaScript and React.
