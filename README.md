@@ -1,6 +1,6 @@
 <br />
 Hi there, I'm Swaraj! 👋 <br/>
-A Self-taught Full Stack Developer.<br/><br/>
+A Full Stack Developer.<br/><br/>
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on my <a href="https://github.com/ceosss/bmi_calc" target="_blank">BMI Calculator App using Flutter</a>.
