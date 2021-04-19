@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Flutter Project.
 - 🌱 I’m currently learning Flutter.
 - <strong>👨‍💻 I’m actively looking for a Job Opportunity.</strong>
-- 💬 Ask me about JavaScript, React and Flutter.
+- 💬 Ask me about Javascript, React and Flutter.
 - 📫 How to reach me: Scroll Down.
 - 😄 Fun fact: Biggest Taylor Swift Fan.
 
