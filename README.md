@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - <strong>👨‍💻 I’m actively looking for a Job Opportunity.</strong>
 - 💬 Ask me about Javascript, React and Flutter.
 - 📫 How to reach me: Scroll Down.
-- 😄 Fun fact: Biggest Taylor Swift Fan.
 
 <br />
 <hr />
